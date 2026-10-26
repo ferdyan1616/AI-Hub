@@ -1,0 +1,8 @@
+{
+  "name": "Aplikasi Sederhana - Daily Hub",
+  "description": "Aplikasi serbaguna sederhana untuk manajemen tugas harian, catatan cepat, anggaran ringkas, dan fokus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
